@@ -1,8 +1,7 @@
-Esta es la historia de Alfonso Segovia}
+Esta es la historia de Alfonso Segovia
 
-Alfonso Segova tiene 44 años y 
-nac{i en Campeche}
+Alfonso Segovia tiene 44 años y nació en Yucatán
 
 Hoy hablaremos de su historia
 
-nueva linea
+última linea
